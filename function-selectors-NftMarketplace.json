@@ -1,0 +1,10 @@
+{
+  "buyCommitScheme(bytes32)": "c58010ee",
+  "buyRevealScheme(bytes32,uint256,address,string)": "5d803693",
+  "cancel(uint256)": "40e58ee5",
+  "cancelBuying(bytes32,uint256,address,string)": "5d8b0b8e",
+  "commits(bytes32)": "47885781",
+  "generateCommitHash(uint256,address,string)": "7128f6b9",
+  "sales(uint256)": "b5f522f7",
+  "sell(address,uint256,uint40,uint216)": "08909ad7"
+}
